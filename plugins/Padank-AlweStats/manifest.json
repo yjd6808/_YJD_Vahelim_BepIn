@@ -1,0 +1,9 @@
+{
+    "name": "AlweStats",
+    "version_number": "4.4.1",
+    "website_url": "https://github.com/zAlweNy26/AlweStats",
+    "description": "Easily see stats about entities, fps, ping, clock, ship, wind, world, bow, inventory, weight, map, player, environment and coordinates",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

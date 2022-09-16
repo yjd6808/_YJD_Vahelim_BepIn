@@ -1,0 +1,9 @@
+{
+  "name": "Valheim_Advanced_Map_Icons",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Simple Mod where you can customize the mini map icons: Size, Color, Text (text on mini map)",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1502"
+  ]
+}

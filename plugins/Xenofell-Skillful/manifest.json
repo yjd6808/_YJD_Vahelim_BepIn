@@ -1,0 +1,9 @@
+{
+    "name": "Skillful",
+    "version_number": "0.3.0",
+    "website_url": "https://github.com/cstamford/ValheimMods",
+    "description": "Skillful adds various useful bonuses and utilities to existing skills, making for a deeper sense of character progression.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.601"
+    ]
+}

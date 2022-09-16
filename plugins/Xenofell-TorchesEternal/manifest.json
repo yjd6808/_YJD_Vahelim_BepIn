@@ -1,0 +1,9 @@
+{
+    "name": "TorchesEternal",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/cstamford/ValheimMods",
+    "description": "Torches and other fire sources that require fuel (campfire, hearth, etc) will burn infinitely when using Torches Eternal.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.601"
+    ]
+}

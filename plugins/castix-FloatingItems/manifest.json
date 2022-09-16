@@ -1,0 +1,9 @@
+{
+  "name": "FloatingItems",
+  "description": "This simple mod makes all items float on the water surface.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.600"
+  ]
+}

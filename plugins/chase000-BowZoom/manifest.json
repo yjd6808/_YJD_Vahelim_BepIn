@@ -1,0 +1,7 @@
+{
+	"name": "BowZoom",
+	"version_number": "0.0.1",
+	"website_url": "",
+	"description": "Drawing the bow zooms in the view.",
+	"dependencies": [ "denikson-BepInExPack_Valheim-5.4.701" ]
+}

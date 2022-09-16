@@ -1,0 +1,674 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (2022-09-16 PM 9:33:30)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 35 plugins to load
+[Info   :   BepInEx] Loading [MoreSlotsPatcher 1.1.0]
+[Info   :   BepInEx] Loading [Minimal Status Effects 1.0.3]
+[Info   :   BepInEx] Loading [AlweStats 4.4.1]
+[Info   : AlweStats] AlweStats loaded successfully !
+[Info   :   BepInEx] Loading [Auto Map Pins 1.2.2]
+[Info   :   BepInEx] Loading [Pin Filters 1.2.0]
+[Info   : Unity Log] Configuring Pin Filter global toggle to key F7.
+[Info   :   BepInEx] Loading [FloatingItems 1.0.0]
+[Info   :   BepInEx] Loading [Valheim Map Icon Mod 1.0.0.3]
+[Info   : Unity Log] Hell0, Map Ic0n M0d by easy-develope.ch!
+[Info   :   BepInEx] Loading [Bow Zoom 0.0.1]
+[Info   :   BepInEx] Loading [Configuration Manager 17.0]
+[Info   :   BepInEx] Loading [Crafting with Containers - TempFix by LukaWolf 1.0.15]
+[Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
+[Info   :   BepInEx] Loading [UnrestrictedPortals 1.4.2]
+[Message:UnrestrictedPortals] Loading configuration...
+[Message:UnrestrictedPortals] Successfully loaded configuration.
+[Message:UnrestrictedPortals] Loading patches...
+[Message:UnrestrictedPortals] Successfully loaded patches.
+[Info   :   BepInEx] Loading [Jotunn 2.7.8]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.7.8 loaded successfully
+[Info   :   BepInEx] Loading [Faster Teleportation 0.3.1.0]
+[Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
+[Info   :   BepInEx] Loading [Quick Deposit 1.0.0]
+[Info   :   BepInEx] Loading [OdinArchitect 0.1.3]
+[Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
+[Info   :   BepInEx] Loading [AnyPortal 2.0.0]
+[Info   :   BepInEx] Loading [MagicOverhaul 1.5.5]
+[Info   : Unity Log] 09/17/2022 07:20:04: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 09/17/2022 07:20:04: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 09/17/2022 07:20:04: Loaded localization CSV:localization language:Korean
+
+[Info   : Unity Log] 09/17/2022 07:20:04: Loaded localization CSV:localization_extra language:Korean
+
+[Info   :   BepInEx] Loading [UsefulPaths 1.0.5.0]
+[Info   :   BepInEx] Loading [Valheim Plus Build Expansion 1.0.8]
+[Info   :   BepInEx] Loading [ItemStacks 1.2.0]
+[Info   :ItemStacks] ItemStacks loaded.
+[Info   :   BepInEx] Loading [Quick Stack 0.6.5]
+[Info   :Quick Stack] Initializing Quick Stack.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.9]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.15]
+[Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
+[Info   :   BepInEx] Loading [QoLPins 5.4.1604]
+[Info   :   QoLPins] Updating ColorLib
+
+[Info   :   BepInEx] Loading [Hold Attack 0.4.1]
+[Info   :   BepInEx] Loading [No Rain Damage 1.2.1]
+[Info   :   BepInEx] Loading [More Slots 1.1.6]
+[Info   :More Slots] More Slots mod - Created by Fang86
+[Info   :More Slots] Gravekeeper not found
+[Info   :   BepInEx] Loading [BuildHelper 0.2]
+[Info   :   BepInEx] Loading [Skillful 0.3]
+[Info   :   BepInEx] Loading [TorchesEternal 0.2]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 09/17/2022 07:20:20: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 09/17/2022 07:20:25: Using environment steamid 892970
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Using steam APPID:892970
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Using default prefs
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Valheim version:0.210.6
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/17/2022 07:20:25: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 09/17/2022 07:20:25: Missing audio clip in music respawn
+
+[Info   : Unity Log] 09/17/2022 07:20:25: Checking for installed DLCs
+
+[Info   : Unity Log] 09/17/2022 07:20:25: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 09/17/2022 07:20:26: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 09/17/2022 07:20:26: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] 09/17/2022 07:20:26: Loaded localization CSV:localization language:Korean
+
+[Info   : Unity Log] 09/17/2022 07:20:26: Loaded localization CSV:localization_extra language:Korean
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 07:20:27: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 07:20:29: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 07:20:30: FOund selected Start game
+
+[Info   : Unity Log] 09/17/2022 07:20:30: show character selection
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 07:20:34: OnCharacterStart
+
+[Info   : Unity Log] 09/17/2022 07:20:37: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 07:20:37: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/17/2022 07:20:37: Loading player profile 솔플제왕
+
+[Info   : Unity Log] 09/17/2022 07:20:37: isModded: True
+
+[Info   : Unity Log] 09/17/2022 07:20:37: Zonesystem Awake 553
+
+[Info   : Unity Log] 09/17/2022 07:20:37: DungeonDB Awake 553
+
+[Info   : Unity Log] 09/17/2022 07:20:37: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 98 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   :Jotunn.Managers.PieceManager] Adding 93 custom pieces to the PieceTables
+[Info   : Unity Log] 09/17/2022 07:20:42: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/17/2022 07:20:42: Checking for installed DLCs
+
+[Info   : Unity Log] 09/17/2022 07:20:42: DLC:beta installed:False
+
+[Info   : Unity Log] m_pinSizeSmall: 24
+[Info   : Unity Log] m_pinSizeLarge: 28
+[Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 09/17/2022 07:20:46: Zonesystem Start 553
+
+[Info   : Unity Log] 09/17/2022 07:20:46: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 09/17/2022 07:20:46: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 09/17/2022 07:20:46: DungeonDB Start 553
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Load world: jdyun (jdyun)
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Loading 15237 zdos , my id 1070535714 data version:28
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Loaded 741 dead zdos
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Loaded 7482 locations
+
+[Info   : Unity Log] 09/17/2022 07:20:47: Starting respawn
+
+[Info   : Unity Log] 09/17/2022 07:20:59: Unpacking compressed mapdata 8245
+
+[Info   : Unity Log] 09/17/2022 07:20:59: tip:$loadscreen_tip05
+
+[Info   : Unity Log] 09/17/2022 07:21:08: Spawned after 8.019994
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 07:21:08: Minimap: Adding unique location (62.5, 45.1, -198.9)
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 07:21:12: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 07:21:13: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 07:21:13: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 07:21:20: Disabling PlayerBase  character_trigger
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 07:21:25: Placed piece_workbench
+
+[Info   : Unity Log] 09/17/2022 07:21:25: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 09/17/2022 07:21:33: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 09/17/2022 07:21:43: Setting selected recipe 2
+
+[Info   : Unity Log] 09/17/2022 07:21:43: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 07:21:43: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 07:21:45: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 07:21:47: Setting selected recipe 3
+
+[Info   : Unity Log] 09/17/2022 07:22:39: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 09/17/2022 07:22:40: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] The config file of AlweStats was saved successfully !
+[Info   : Unity Log] Updating the worlds file...
+[Info   : Unity Log] 09/17/2022 07:22:41: Shuting down
+
+[Info   : Unity Log] 09/17/2022 07:22:41: Uncompressed size 8388617
+
+[Info   : Unity Log] 09/17/2022 07:22:41: Compressed size 8253
+
+[Info   : Unity Log] 09/17/2022 07:22:41: Considering autobackup. World time: 98.98, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/17/2022 07:22:41: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/17/2022 07:22:41: ZNet Shutdown
+
+[Info   : Unity Log] 09/17/2022 07:22:41: clone 50
+
+[Info   : Unity Log] 09/17/2022 07:22:42: Sending disconnect msg
+
+[Info   : Unity Log] 09/17/2022 07:22:42: FOund selected Button_yes
+
+[Warning: Unity Log] 09/17/2022 07:22:42: Local player destroyed
+
+[Info   : Unity Log] 09/17/2022 07:22:42: ZNet OnDestroy
+
+[Info   : Unity Log] 09/17/2022 07:22:42: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 09/17/2022 07:22:43: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 07:22:43: Using default prefs
+
+[Info   : Unity Log] 09/17/2022 07:22:43: Valheim version:0.210.6
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/17/2022 07:22:43: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 09/17/2022 07:22:43: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/17/2022 07:22:43: Checking for installed DLCs
+
+[Info   : Unity Log] 09/17/2022 07:22:43: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Warning:Jotunn.Managers.LocalizationManager] Localization (com.jotunn.jotunn) already added
+[Info   : Unity Log] 09/17/2022 07:22:44: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 09/17/2022 07:22:44: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] 09/17/2022 07:22:44: Loaded localization CSV:localization language:Korean
+
+[Info   : Unity Log] 09/17/2022 07:22:44: Loaded localization CSV:localization_extra language:Korean
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] 09/17/2022 07:22:44: UI Group status changed Menu = True
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 07:22:46: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 07:22:47: FOund selected Start game
+
+[Info   : Unity Log] 09/17/2022 07:22:47: show character selection
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 07:22:48: OnCharacterStart
+
+[Info   : Unity Log] 09/17/2022 07:22:51: connect to ip:34.64.198.142 port:2456
+
+[Info   : Unity Log] 09/17/2022 07:22:52: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 07:22:52: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/17/2022 07:22:52: Loading player profile 솔플제왕
+
+[Info   : Unity Log] 09/17/2022 07:22:52: isModded: True
+
+[Info   : Unity Log] 09/17/2022 07:22:52: Zonesystem Awake 7980
+
+[Info   : Unity Log] 09/17/2022 07:22:52: DungeonDB Awake 7980
+
+[Info   : Unity Log] 09/17/2022 07:22:52: Steam initialized, persona:b4dnsupg
+
+[Info   :Jotunn.Managers.PrefabManager] Adding 105 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   :Jotunn.Managers.PieceManager] Adding 93 custom pieces to the PieceTables
+[Info   : Unity Log] 09/17/2022 07:22:53: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/17/2022 07:22:53: Checking for installed DLCs
+
+[Info   : Unity Log] 09/17/2022 07:22:53: DLC:beta installed:False
+
+[Info   : Unity Log] m_pinSizeSmall: 24
+[Info   : Unity Log] m_pinSizeLarge: 28
+[Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 09/17/2022 07:22:57: Zonesystem Start 7980
+
+[Info   : Unity Log] 09/17/2022 07:22:57: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 09/17/2022 07:22:57: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 09/17/2022 07:22:57: DungeonDB Start 7980
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Connecting to server 34.64.198.142:2456
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Starting to connect to 34.64.198.142:2456
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 09/17/2022 07:22:58: New connection
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Connected
+
+[Info   : Unity Log] 09/17/2022 07:22:58: Got connection SteamID 90163613819112451
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Got connectoin error msg ErrorVersion
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Lost connection to server:ErrorVersion
+
+[Info   : Unity Log] The config file of AlweStats was saved successfully !
+[Info   : Unity Log] Updating the worlds file...
+[Info   : Unity Log] 09/17/2022 07:22:59: Shuting down
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Considering autobackup. World time: 0.04000092, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/17/2022 07:22:59: ZNet Shutdown
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Sending disconnect msg
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Sent to 90163613819112451
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Disposing socket
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Closing socket 90163613819112451
+
+[Info   : Unity Log] 09/17/2022 07:22:59:   send queue size:0
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/17/2022 07:22:59: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Disposing socket
+
+[Info   : Unity Log] 09/17/2022 07:22:59: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/17/2022 07:22:59: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 09/17/2022 07:23:00: ZNet OnDestroy
+
+[Info   : Unity Log] 09/17/2022 07:23:00: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 09/17/2022 07:23:00: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 07:23:00: Using default prefs
+
+[Info   : Unity Log] 09/17/2022 07:23:00: Valheim version:0.210.6
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/17/2022 07:23:00: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 09/17/2022 07:23:00: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/17/2022 07:23:00: Checking for installed DLCs
+
+[Info   : Unity Log] 09/17/2022 07:23:00: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Warning:Jotunn.Managers.LocalizationManager] Localization (com.jotunn.jotunn) already added
+[Info   : Unity Log] 09/17/2022 07:23:01: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 09/17/2022 07:23:01: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] 09/17/2022 07:23:01: Loaded localization CSV:localization language:Korean
+
+[Info   : Unity Log] 09/17/2022 07:23:01: Loaded localization CSV:localization_extra language:Korean
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 07:23:01: UI Group status changed Menu = True
+
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+ValheimInventorySlots.FixGuiFrame+<screenSearchCoroutine>d__14.MoveNext () (at <13c2d7b4608a4caaabc7f35a5432d075>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
+
+[Info   : Unity Log] 09/17/2022 07:23:03: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 07:23:09: Steam manager on destroy
+
+[Info   : Unity Log] Unpatching now
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+

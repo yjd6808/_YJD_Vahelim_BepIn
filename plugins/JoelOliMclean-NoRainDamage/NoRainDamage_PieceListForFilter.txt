@@ -1,0 +1,37 @@
+##########################################################
+## The following is a list of pieces you can add        ##
+## as a filter in the config for NoRainDamage to define ##
+## what gets excluded or included                       ##
+## (included hints in brackets for obscure names)       ##
+## Example usage: workbench, woodwall, wood_stack       ##
+##########################################################
+workbench
+wood_floor
+wood_floor_1x1
+wood_gate
+wood_door
+wood_stair
+woodwall
+wood_wall_half
+wood_stepladder
+wood_pole_log
+wood_pole_log_4 (tall log pole)
+wood_wall_log
+wood_wall_log_4x0.5 (long log beam)
+wood_stack
+wood_beam_26
+wood_beam_45
+wood_pole (Wood pole 1m)
+wood_pole2 (Wood pole 2m)
+wood_wall_roof (26 degree angle wall)
+wood_wall_roof_top (26 degree cross piece)
+wood_wall_roof_top_45 (45 degree cross piece)
+wood_wall_roof_45 (45 degree angle wall)
+woodiron_beam
+woodiron_pole
+wood_beam
+wood_beam_1 (small beam)
+wood_fence
+wood_dragon1
+stake_wall
+sharpstakes

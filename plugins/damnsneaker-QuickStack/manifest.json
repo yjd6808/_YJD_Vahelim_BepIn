@@ -1,0 +1,9 @@
+{
+    "name": "QuickStack",
+    "version_number": "0.6.6",
+    "website_url": "https://www.nexusmods.com/valheim/mods/29",
+    "description": "Press a configured key (` by default) to quickly stack items from your inventory into a currently opened or nearby containers.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.601"
+    ]
+}

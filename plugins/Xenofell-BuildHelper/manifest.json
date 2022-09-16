@@ -1,0 +1,9 @@
+{
+    "name": "BuildHelper",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/cstamford/ValheimMods",
+    "description": "BuildHelper provides some handy tweaks to help make builder's lives easier.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.601"
+    ]
+}

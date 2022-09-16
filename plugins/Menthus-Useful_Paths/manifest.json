@@ -1,0 +1,9 @@
+{
+    "name": "Useful_Paths",
+    "version_number": "1.5.0",
+    "website_url": "",
+    "description": "Players run, jog, and walk faster and use less stamina when traversing leveled ground, paths, paved roads, wood, stone, iron, or hardwood . The movement boost and stamina drain decrease values can also be configured.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}
