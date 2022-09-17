@@ -10,8 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 35 plugins to load
-[Info   :   BepInEx] Loading [MoreSlotsPatcher 1.1.0]
+[Info   :   BepInEx] 29 plugins to load
 [Info   :   BepInEx] Loading [Minimal Status Effects 1.0.3]
 [Info   :   BepInEx] Loading [AlweStats 4.4.1]
 [Info   : AlweStats] AlweStats loaded successfully !
@@ -23,6 +22,245 @@
 [Info   : Unity Log] Hell0, Map Ic0n M0d by easy-develope.ch!
 [Info   :   BepInEx] Loading [Bow Zoom 0.0.1]
 [Info   :   BepInEx] Loading [Configuration Manager 17.0]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log]  Loading key itemsFloatInWater
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Warning: Unity Log]  [Int] Could not read fermenterItemsProduced, using default value of 4
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key fishing
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   : Unity Log] 09/17/2022 16:24:33: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
 [Info   :   BepInEx] Loading [Crafting with Containers - TempFix by LukaWolf 1.0.15]
 [Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
 [Info   :   BepInEx] Loading [UnrestrictedPortals 1.4.2]
@@ -52,75 +290,66 @@
 [Info   :    Jotunn] Jötunn v2.7.8 loaded successfully
 [Info   :   BepInEx] Loading [Faster Teleportation 0.3.1.0]
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
-[Info   :   BepInEx] Loading [Quick Deposit 1.0.0]
 [Info   :   BepInEx] Loading [OdinArchitect 0.1.3]
 [Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
 [Info   :   BepInEx] Loading [AnyPortal 2.0.0]
 [Info   :   BepInEx] Loading [MagicOverhaul 1.5.5]
-[Info   : Unity Log] 09/17/2022 09:43:36: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/17/2022 09:43:36: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 09/17/2022 09:43:36: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/17/2022 09:43:36: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :   BepInEx] Loading [UsefulPaths 1.0.5.0]
 [Info   :   BepInEx] Loading [Valheim Plus Build Expansion 1.0.8]
-[Info   :   BepInEx] Loading [ItemStacks 1.2.0]
-[Info   :ItemStacks] ItemStacks loaded.
 [Info   :   BepInEx] Loading [Quick Stack 0.6.5]
 [Info   :Quick Stack] Initializing Quick Stack.
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.15]
-[Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
 [Info   :   BepInEx] Loading [QoLPins 5.4.1604]
 [Info   :   QoLPins] Updating ColorLib
 
 [Info   :   BepInEx] Loading [Hold Attack 0.4.1]
-[Info   :   BepInEx] Loading [No Rain Damage 1.2.1]
-[Info   :   BepInEx] Loading [More Slots 1.1.6]
-[Info   :More Slots] More Slots mod - Created by Fang86
-[Info   :More Slots] Gravekeeper not found
 [Info   :   BepInEx] Loading [BuildHelper 0.2]
-[Info   :   BepInEx] Loading [Skillful 0.3]
 [Info   :   BepInEx] Loading [TorchesEternal 0.2]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 09/17/2022 09:43:50: Starting to load scene:start
+[Info   : Unity Log] 09/17/2022 16:24:53: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/17/2022 09:43:54: Using environment steamid 892970
+[Info   : Unity Log] 09/17/2022 16:24:58: Using environment steamid 892970
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Using steam APPID:892970
+[Info   : Unity Log] 09/17/2022 16:24:58: Using steam APPID:892970
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/17/2022 16:24:58: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/17/2022 16:24:58: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Using default prefs
+[Info   : Unity Log] 09/17/2022 16:24:58: Using default prefs
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Valheim version:0.210.6
+[Info   : Unity Log] 09/17/2022 16:24:58: Valheim version:0.210.6@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/17/2022 09:43:54: Render threading mode:MultiThreaded
+[Info   : Unity Log] 09/17/2022 16:24:58: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 09/17/2022 09:43:54: Missing audio clip in music respawn
+[Warning: Unity Log] 09/17/2022 16:24:58: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/17/2022 09:43:54: Checking for installed DLCs
+[Info   : Unity Log] 09/17/2022 16:24:58: Checking for installed DLCs
 
-[Info   : Unity Log] 09/17/2022 09:43:54: DLC:beta installed:False
+[Info   : Unity Log] 09/17/2022 16:24:58: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 09/17/2022 09:43:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/17/2022 09:43:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 09/17/2022 09:43:55: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/17/2022 09:43:55: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
@@ -162,41 +391,40 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   : Unity Log] 09/17/2022 09:43:56: UI Group status changed Menu = True
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 16:25:00: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 16:25:02: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/17/2022 16:25:04: FOund selected Start game
+
+[Info   : Unity Log] 09/17/2022 16:25:04: show character selection
 
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
 (wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Info   : Unity Log] 09/17/2022 09:43:58: UI Group status changed Menu = True
+[Info   : Unity Log] 09/17/2022 16:25:13: OnCharacterStart
 
-[Info   : Unity Log] 09/17/2022 09:44:15: FOund selected Start game
+[Info   : Unity Log] 09/17/2022 16:25:17: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] 09/17/2022 09:44:15: show character selection
-
-[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
-Stack trace:
-(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
-
-[Info   : Unity Log] 09/17/2022 09:44:16: OnCharacterStart
-
-[Info   : Unity Log] 09/17/2022 09:44:19: connect to ip:34.64.198.142 port:2456
-
-[Info   : Unity Log] 09/17/2022 09:44:21: Steam initialized, persona:b4dnsupg
-
-[Info   : Unity Log] 09/17/2022 09:44:21: Using default prefs
+[Info   : Unity Log] 09/17/2022 16:25:17: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/17/2022 09:44:21: Loading player profile 솔플제왕
+[Info   : Unity Log] 09/17/2022 16:25:17: Loading player profile 솔플제왕
 
-[Info   : Unity Log] 09/17/2022 09:44:21: isModded: True
+[Info   : Unity Log] 09/17/2022 16:25:17: isModded: True
 
-[Info   : Unity Log] 09/17/2022 09:44:21: Zonesystem Awake 1444
+[Info   : Unity Log] 09/17/2022 16:25:17: Zonesystem Awake 956
 
-[Info   : Unity Log] 09/17/2022 09:44:21: DungeonDB Awake 1444
+[Info   : Unity Log] 09/17/2022 16:25:17: DungeonDB Awake 956
 
-[Info   : Unity Log] 09/17/2022 09:44:21: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/17/2022 16:25:17: Steam initialized, persona:b4dnsupg
 
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   :Jotunn.Managers.PrefabManager] Adding 98 custom prefabs to the ZNetScene
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom recipes to the ObjectDB
@@ -240,164 +468,150 @@ Stack trace:
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Info   :Jotunn.Managers.PieceManager] Adding 93 custom pieces to the PieceTables
-[Info   : Unity Log] 09/17/2022 09:44:22: Audioman already exist, destroying self
+[Info   : Unity Log] 09/17/2022 16:25:20: Audioman already exist, destroying self
 
-[Info   : Unity Log] 09/17/2022 09:44:22: Checking for installed DLCs
+[Info   : Unity Log] 09/17/2022 16:25:20: Checking for installed DLCs
 
-[Info   : Unity Log] 09/17/2022 09:44:22: DLC:beta installed:False
+[Info   : Unity Log] 09/17/2022 16:25:20: DLC:beta installed:False
 
 [Info   : Unity Log] m_pinSizeSmall: 24
 [Info   : Unity Log] m_pinSizeLarge: 28
 [Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
 [Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   : Unity Log] 09/17/2022 09:44:26: Zonesystem Start 1444
+[Info   : Unity Log] 09/17/2022 16:25:24: Zonesystem Start 956
 
-[Info   : Unity Log] 09/17/2022 09:44:26: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 09/17/2022 16:25:25: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 09/17/2022 09:44:26: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 09/17/2022 16:25:25: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
-[Info   : Unity Log] 09/17/2022 09:44:26: DungeonDB Start 1444
+[Info   : Unity Log] 09/17/2022 16:25:25: DungeonDB Start 956
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Connecting to server 34.64.198.142:2456
+[Info   : Unity Log] 09/17/2022 16:25:25: Load world: jdyun (jdyun)
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Starting to connect to 34.64.198.142:2456
+[Info   : Unity Log] 09/17/2022 16:25:25: Loading 21915 zdos , my id 1164476323 data version:28
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 09/17/2022 16:25:25: Loaded 1925 dead zdos
 
-[Info   : Unity Log] 09/17/2022 09:44:27: New connection
+[Info   : Unity Log] 09/17/2022 16:25:25: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+[Info   : Unity Log] 09/17/2022 16:25:25: Loaded 7482 locations
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Connected
+[Info   : Unity Log] 09/17/2022 16:25:26: Starting respawn
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Got connection SteamID 90163636500900867
+[Info   : Unity Log] 09/17/2022 16:25:36: Unpacking compressed mapdata 8346
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Got connectoin error msg ErrorVersion
+[Info   : Unity Log] 09/17/2022 16:25:37: tip:$loadscreen_tip07
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Lost connection to server:ErrorVersion
+[Info   : Unity Log] 09/17/2022 16:25:40: Force generaeting hmap (-64.0, 0.0, -128.0)
 
-[Info   : Unity Log] The config file of AlweStats was saved successfully !
-[Info   : Unity Log] Updating the worlds file...
-[Info   : Unity Log] 09/17/2022 09:44:27: Shuting down
+[Info   : Unity Log] 09/17/2022 16:25:40: Force generaeting hmap (0.0, 0.0, -128.0)
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Considering autobackup. World time: 0.02000046, short time: 7200, long time: 43200, backup count: 4
+[Info   : Unity Log] 09/17/2022 16:25:45: Spawned after 8.019994
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Skipping backup. World session not long enough.
+[Info   : Unity Log] 09/17/2022 16:25:45: -------------------- SENDING VPLUSMAPSYNC DATA
 
-[Info   : Unity Log] 09/17/2022 09:44:27: ZNet Shutdown
+[Info   : Unity Log] 09/17/2022 16:25:45: Sent my map data to the server (50 map ranges, 1 chunks)
 
-[Info   : Unity Log] 09/17/2022 09:44:27: Sending disconnect msg
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Sent to 90163636500900867
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Disposing socket
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Closing socket 90163636500900867
-
-[Info   : Unity Log] 09/17/2022 09:44:27:   send queue size:0
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Last socket, unregistering callback
-
-[Info   : Unity Log] 09/17/2022 09:44:27: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Disposing socket
-
-[Info   : Unity Log] 09/17/2022 09:44:27: Last socket, unregistering callback
-
-[Info   : Unity Log] 09/17/2022 09:44:27: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] 09/17/2022 09:44:28: ZNet OnDestroy
-
-[Info   : Unity Log] 09/17/2022 09:44:28: Net scene destroyed
-
-[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/17/2022 09:44:28: Steam initialized, persona:b4dnsupg
-
-[Info   : Unity Log] 09/17/2022 09:44:28: Using default prefs
-
-[Info   : Unity Log] 09/17/2022 09:44:28: Valheim version:0.210.6
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/17/2022 09:44:28: Render threading mode:MultiThreaded
-
-[Info   : Unity Log] 09/17/2022 09:44:28: Audioman already exist, destroying self
-
-[Info   : Unity Log] 09/17/2022 09:44:28: Checking for installed DLCs
-
-[Info   : Unity Log] 09/17/2022 09:44:28: DLC:beta installed:False
-
-[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Warning:Jotunn.Managers.LocalizationManager] Localization (com.jotunn.jotunn) already added
-[Info   : Unity Log] 09/17/2022 09:44:29: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 09/17/2022 09:44:29: Loaded localization CSV:localization_extra language:English
-
-[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 09/17/2022 09:44:29: Loaded localization CSV:localization language:Korean
-
-[Info   : Unity Log] 09/17/2022 09:44:29: Loaded localization CSV:localization_extra language:Korean
-
-[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
-[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
 (wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Info   : Unity Log] 09/17/2022 09:44:30: UI Group status changed Menu = True
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 16:25:45: Minimap: Adding unique location (62.5, 45.1, -198.9)
 
-[Error  : Unity Log] NullReferenceException
-Stack trace:
-ValheimInventorySlots.FixGuiFrame+<screenSearchCoroutine>d__14.MoveNext () (at <13c2d7b4608a4caaabc7f35a5432d075>:0)
-UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 16:25:47: Resumed music meadows at 0
 
-[Info   : Unity Log] 09/17/2022 09:44:31: UI Group status changed Menu = True
+[Info   : Unity Log] 09/17/2022 16:25:49: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 16:25:49: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 16:25:49: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 16:25:53: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 16:25:53: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 16:25:53: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 16:26:02: Spawned Fish2 x 2
+
+[Info   : Unity Log] 09/17/2022 16:26:02: Spawned Seagal x 2
+
+[Info   : Unity Log] 09/17/2022 16:26:03: Placed locations in zone -4,3  duration 11.1776 ms
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Deer x 2
+
+[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Boar x 1
+
+[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Boar x 2
+
+[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Seagal x 2
+
+[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Fish3 x 1
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 16:26:22: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 16:26:22: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 16:26:22: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 16:26:24: Game - OnApplicationQuit
+
+[Info   : Unity Log] The config file of AlweStats was saved successfully !
+[Info   : Unity Log] Updating the worlds file...
+[Info   : Unity Log] 09/17/2022 16:26:24: Shuting down
+
+[Info   : Unity Log] 09/17/2022 16:26:24: Uncompressed size 8388617
+
+[Info   : Unity Log] 09/17/2022 16:26:24: Compressed size 8345
+
+[Info   : Unity Log] 09/17/2022 16:26:24: Considering autobackup. World time: 47.06, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/17/2022 16:26:24: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/17/2022 16:26:24: ZNet Shutdown
+
+[Info   : Unity Log] 09/17/2022 16:26:24: clone 37
+
+[Info   : Unity Log] 09/17/2022 16:26:25: Sending disconnect msg
 
 [Info   : Unity Log] Unpatching now
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+[Info   : Unity Log] 09/17/2022 16:26:29: Steam manager on destroy
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-ABearCodes.Valheim.SimpleRecycling.UI.StationRecyclingTabHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+[Warning: Unity Log] 09/17/2022 16:26:29: Local player destroyed
 
-[Info   : Unity Log] 09/17/2022 09:44:52: Steam manager on destroy
+[Info   : Unity Log] 09/17/2022 16:26:29: ZNet OnDestroy
+
+[Info   : Unity Log] 09/17/2022 16:26:29: Net scene destroyed
 

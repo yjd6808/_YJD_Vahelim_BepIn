@@ -1,9 +1,0 @@
-{
-    "name": "NoRainDamage",
-    "version_number": "1.2.1",
-    "website_url": "https://github.com/JoelOliMclean/NoRainDamage",
-    "description": "Rain will no longer damage structures that have no roof. Now configurable for what gets damaged!",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.800"
-    ]
-}
