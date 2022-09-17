@@ -190,7 +190,24 @@
 [Info   : Unity Log]  Loading key removeDamageFlash
 [Info   : Unity Log]  Loading key displayBowAmmoCounts
 [Info   : Unity Log] Loading config section Experience
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log]  Loading key ride
 [Info   : Unity Log] Loading config section Camera
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Game
@@ -258,7 +275,7 @@
 [Info   : Unity Log] Loading config section Chat
 [Info   : Unity Log]  Section not enabled
 [Info   :Valheim Plus] Configuration file loaded succesfully.
-[Info   : Unity Log] 09/17/2022 16:24:33: Successfully transpiled Pickable.RPC_Pick to patch item yields
+[Info   : Unity Log] 09/17/2022 20:43:53: Successfully transpiled Pickable.RPC_Pick to patch item yields
 
 [Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
 [Info   :   BepInEx] Loading [Crafting with Containers - TempFix by LukaWolf 1.0.15]
@@ -294,13 +311,13 @@
 [Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
 [Info   :   BepInEx] Loading [AnyPortal 2.0.0]
 [Info   :   BepInEx] Loading [MagicOverhaul 1.5.5]
-[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/17/2022 20:43:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/17/2022 20:43:59: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/17/2022 20:43:59: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/17/2022 16:24:38: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/17/2022 20:43:59: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :   BepInEx] Loading [UsefulPaths 1.0.5.0]
 [Info   :   BepInEx] Loading [Valheim Plus Build Expansion 1.0.8]
@@ -317,39 +334,39 @@
 [Info   :   BepInEx] Loading [BuildHelper 0.2]
 [Info   :   BepInEx] Loading [TorchesEternal 0.2]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 09/17/2022 16:24:53: Starting to load scene:start
+[Info   : Unity Log] 09/17/2022 20:44:15: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/17/2022 16:24:58: Using environment steamid 892970
+[Info   : Unity Log] 09/17/2022 20:44:23: Using environment steamid 892970
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Using steam APPID:892970
+[Info   : Unity Log] 09/17/2022 20:44:23: Using steam APPID:892970
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/17/2022 20:44:23: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/17/2022 20:44:23: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Using default prefs
+[Info   : Unity Log] 09/17/2022 20:44:23: Using default prefs
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Valheim version:0.210.6@0.9.9.8
+[Info   : Unity Log] 09/17/2022 20:44:23: Valheim version:0.210.6@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/17/2022 16:24:58: Render threading mode:MultiThreaded
+[Info   : Unity Log] 09/17/2022 20:44:23: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 09/17/2022 16:24:58: Missing audio clip in music respawn
+[Warning: Unity Log] 09/17/2022 20:44:23: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/17/2022 16:24:58: Checking for installed DLCs
+[Info   : Unity Log] 09/17/2022 20:44:23: Checking for installed DLCs
 
-[Info   : Unity Log] 09/17/2022 16:24:58: DLC:beta installed:False
+[Info   : Unity Log] 09/17/2022 20:44:23: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/17/2022 20:44:24: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/17/2022 20:44:24: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/17/2022 20:44:25: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/17/2022 16:24:59: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/17/2022 20:44:25: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
@@ -391,40 +408,41 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
-Stack trace:
-(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
-
-[Info   : Unity Log] 09/17/2022 16:25:00: UI Group status changed Menu = True
-
-[Info   : Unity Log] 09/17/2022 16:25:02: UI Group status changed Menu = True
-
-[Info   : Unity Log] 09/17/2022 16:25:04: FOund selected Start game
-
-[Info   : Unity Log] 09/17/2022 16:25:04: show character selection
+[Info   : Unity Log] 09/17/2022 20:44:25: UI Group status changed Menu = True
 
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
 (wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Info   : Unity Log] 09/17/2022 16:25:13: OnCharacterStart
+[Info   : Unity Log] 09/17/2022 20:44:28: UI Group status changed Menu = True
 
-[Info   : Unity Log] 09/17/2022 16:25:17: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/17/2022 20:46:58: FOund selected Start game
 
-[Info   : Unity Log] 09/17/2022 16:25:17: Using default prefs
+[Info   : Unity Log] 09/17/2022 20:46:58: show character selection
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 20:46:59: OnCharacterStart
+
+[Info   : Unity Log] 09/17/2022 20:47:02: connect to ip:34.64.198.142 port:2456
+
+[Info   : Unity Log] 09/17/2022 20:47:04: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/17/2022 20:47:04: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/17/2022 16:25:17: Loading player profile 솔플제왕
+[Info   : Unity Log] 09/17/2022 20:47:04: Loading player profile 솔플제왕
 
-[Info   : Unity Log] 09/17/2022 16:25:17: isModded: True
+[Info   : Unity Log] 09/17/2022 20:47:04: isModded: True
 
-[Info   : Unity Log] 09/17/2022 16:25:17: Zonesystem Awake 956
+[Info   : Unity Log] 09/17/2022 20:47:04: Zonesystem Awake 9401
 
-[Info   : Unity Log] 09/17/2022 16:25:17: DungeonDB Awake 956
+[Info   : Unity Log] 09/17/2022 20:47:04: DungeonDB Awake 9401
 
-[Info   : Unity Log] 09/17/2022 16:25:17: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/17/2022 20:47:04: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   :Jotunn.Managers.PrefabManager] Adding 98 custom prefabs to the ZNetScene
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom recipes to the ObjectDB
@@ -468,49 +486,401 @@ Stack trace:
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Info   :Jotunn.Managers.PieceManager] Adding 93 custom pieces to the PieceTables
-[Info   : Unity Log] 09/17/2022 16:25:20: Audioman already exist, destroying self
+[Info   : Unity Log] 09/17/2022 20:47:04: Audioman already exist, destroying self
 
-[Info   : Unity Log] 09/17/2022 16:25:20: Checking for installed DLCs
+[Info   : Unity Log] 09/17/2022 20:47:04: Checking for installed DLCs
 
-[Info   : Unity Log] 09/17/2022 16:25:20: DLC:beta installed:False
+[Info   : Unity Log] 09/17/2022 20:47:04: DLC:beta installed:False
 
 [Info   : Unity Log] m_pinSizeSmall: 24
 [Info   : Unity Log] m_pinSizeLarge: 28
 [Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
 [Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   : Unity Log] 09/17/2022 16:25:24: Zonesystem Start 956
+[Info   : Unity Log] 09/17/2022 20:47:09: Zonesystem Start 9401
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 09/17/2022 20:47:09: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 09/17/2022 20:47:09: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
-[Info   : Unity Log] 09/17/2022 16:25:25: DungeonDB Start 956
+[Info   : Unity Log] 09/17/2022 20:47:10: DungeonDB Start 9401
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Load world: jdyun (jdyun)
+[Info   : Unity Log] 09/17/2022 20:47:10: Connecting to server 34.64.198.142:2456
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Loading 21915 zdos , my id 1164476323 data version:28
+[Info   : Unity Log] 09/17/2022 20:47:10: Starting to connect to 34.64.198.142:2456
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Loaded 1925 dead zdos
+[Info   : Unity Log] 09/17/2022 20:47:10: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 09/17/2022 20:47:10: New connection
 
-[Info   : Unity Log] 09/17/2022 16:25:25: Loaded 7482 locations
+[Info   : Unity Log] 09/17/2022 20:47:10: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 09/17/2022 16:25:26: Starting respawn
+[Info   : Unity Log] 09/17/2022 20:47:10: Connected
 
-[Info   : Unity Log] 09/17/2022 16:25:36: Unpacking compressed mapdata 8346
+[Info   : Unity Log] 09/17/2022 20:47:10: Got connection SteamID 90163652831594503
 
-[Info   : Unity Log] 09/17/2022 16:25:37: tip:$loadscreen_tip07
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] Received 7 configs and 9 custom values from the server for mod Epic Loot
+[Info   : Unity Log] 09/17/2022 20:47:23: VERSION check their:0.210.6@0.9.9.8  mine:0.210.6@0.9.9.8
 
-[Info   : Unity Log] 09/17/2022 16:25:40: Force generaeting hmap (-64.0, 0.0, -128.0)
+[Info   : Unity Log] 09/17/2022 20:47:27: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
 
-[Info   : Unity Log] 09/17/2022 16:25:40: Force generaeting hmap (0.0, 0.0, -128.0)
+[Info   : Unity Log] 09/17/2022 20:47:27: client got keys 1
 
-[Info   : Unity Log] 09/17/2022 16:25:45: Spawned after 8.019994
+[Info   : Unity Log] 09/17/2022 20:47:27: client got location icons
 
-[Info   : Unity Log] 09/17/2022 16:25:45: -------------------- SENDING VPLUSMAPSYNC DATA
+[Info   : Unity Log] 09/17/2022 20:47:27: Icons:1
 
-[Info   : Unity Log] 09/17/2022 16:25:45: Sent my map data to the server (50 map ranges, 1 chunks)
+[Info   :Jotunn.Managers.SynchronizationManager+<AdminRPC_OnClientReceive>d__30] Received admin status from server: No Admin
+[Info   : Unity Log] [MAGIC OVERHAUL] RECEIVED PACKAGE FROM SERVER. I'm Admin: False
+[Info   : Unity Log] [MAGIC OVERHAUL] Removing Altar from Hammer
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log]  Loading key itemsFloatInWater
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Warning: Unity Log]  [Int] Could not read fermenterItemsProduced, using default value of 4
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key fishing
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log]  Loading key ride
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 09/17/2022 20:47:28: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   : Unity Log] 09/17/2022 20:47:28: Successfully synced VPlus configuration from server.
+
+[Info   : Unity Log] 09/17/2022 20:47:28: Session auth respons callback
+
+[Info   : Unity Log] 09/17/2022 20:47:39: Unpacking compressed mapdata 8621
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 20:47:39: Starting respawn
+
+[Info   : Unity Log] 09/17/2022 20:47:39: tip:$loadscreen_tip11
+
+[Info   : Unity Log] 09/17/2022 20:47:47: Spawned after 8.019994
+
+[Info   : Unity Log] 09/17/2022 20:47:47: -------------------- SENDING VPLUSMAPSYNC DATA
+
+[Info   : Unity Log] 09/17/2022 20:47:47: Sent my map data to the server (101 map ranges, 1 chunks)
 
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
@@ -522,7 +892,32 @@ Stack trace:
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   : Unity Log] 09/17/2022 16:25:45: Minimap: Adding unique location (62.5, 45.1, -198.9)
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 20:47:47: Minimap: Adding unique location (-66.4, 46.5, 1.2)
+
+[Info   : Unity Log] 09/17/2022 20:47:47: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:47:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:47: I got 98 map ranges from the server!
+
+[Info   : Unity Log] 09/17/2022 20:47:47: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:47:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:48: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:48:   but im not the owner
 
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
@@ -539,79 +934,2108 @@ Stack trace:
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 20:47:48: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:48:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:48: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:48:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:48: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:48:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:48: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:48:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:49:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:49:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:49:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Resumed music meadows at 0
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:49:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:49: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:49:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:50: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:50:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:50: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:50:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:50: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:50:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:50: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:50:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:51: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:51:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:51: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:51:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:51: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:51:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:51: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:51:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:51: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:51:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:52: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:52:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:52: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:52:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:52: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:52:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:52: client got keys 1
+
+[Info   : Unity Log] 09/17/2022 20:47:52: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:52:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:52: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:53:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:53: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:53:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:53: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:53:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:53: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:53:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:53: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:53:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:54: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:54:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:54: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:54:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:54: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:54:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:54: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:54:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:54: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:54:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:55: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:55:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:55: Moved up item Wood(Clone)
+
+[Info   : Unity Log] 09/17/2022 20:47:55: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:55:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:55: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:55:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:55: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:55:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:56: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:56:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:56: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:56:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:56: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:56:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:56: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:56:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:56: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:56:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:57: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:57:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:57: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:57:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:57: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:57:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:57: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:57:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:57: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:57:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:58:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to open piece_chest_wood(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:58:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:58: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 20:47:58: UI Group status changed Player = True
+
+[Info   : Unity Log] 09/17/2022 20:47:58: UI Group status changed Container = False
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:58:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:58:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:58: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:59:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:59: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:59:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:59: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:59:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:59: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:59:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:47:59: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:47:59:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:00: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:00:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:00: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:00:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:00: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:00:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:00: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:00:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:00: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:00:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:01: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:01:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:01: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:01:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:01: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:01:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:01: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:01:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:01: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:01:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:02: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:02:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:02: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:02:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:02: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:02:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:02: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:02:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:03: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:03:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:03: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:03:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:03: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:03:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:03: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:03:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:03: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:03:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:04: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:04:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:04: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:04:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:04: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:04:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:04: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:04:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:04: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:04:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:05: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:05:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:05: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:05:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:05: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:05:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:05: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:05:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:06: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:06:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:06: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:06:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:06: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:06:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:06: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:06:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:06: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:06:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:07: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:07:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:07: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:07:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:07: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:07:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:07: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:07:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:07: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:07:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:08: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:08:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:08: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:08:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:08: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:08:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:08: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:08:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:09: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:09:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:09: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:09:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:09: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:09:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:09: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:09:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:09: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:09:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:10:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:10:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Moved up item BeechSeeds(Clone)
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:10:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:10:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:10: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:10:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:11: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:11:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:11: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:11:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:11: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:11:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:11: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:11:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:12: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:12:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:12: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:12:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:12: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:12:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:12: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:12:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:12: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:12:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup Resin(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:13: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:13:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:14: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:14:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:15: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:15:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:16: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:16:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:17: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:17:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:18: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:18:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 20:48:19: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:19:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:20: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:20:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:21: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:21:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:22: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:22:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:23: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:23:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:24: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:24:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:25: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:25:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup Raspberry(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup RawMeat(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup Torch(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:48:26: Player 881394115 wants to pickup NeckTail(Clone)   im: 881394115
+
+[Info   : Unity Log] 09/17/2022 20:48:26:   but im not the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:04: Im still nto the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:05: Im finally the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:05: Im finally the owner
+
+[Info   : Unity Log] 09/17/2022 20:49:22: Spawned Boar x 1
+
+[Info   : Unity Log] 09/17/2022 20:49:22: Spawned Boar x 1
+
+[Info   : Unity Log] 09/17/2022 20:49:22: Spawned Greyling x 1
+
+[Info   : Unity Log] 09/17/2022 20:49:30: Setting selected recipe 0
+
+[Info   : Unity Log] 09/17/2022 20:49:30: UI Group status changed root = True
+
+[Info   : Unity Log] 09/17/2022 20:49:30: UI Group status changed Player = True
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/17/2022 20:50:33: Starting respawn
+
+[Warning: Unity Log] 09/17/2022 20:50:33: Local player destroyed
+
+[Info   : Unity Log] 09/17/2022 20:50:34: tip:$loadscreen_tip15
+
+[Info   : Unity Log] 09/17/2022 20:50:42: Found bed at custom spawn point
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/17/2022 20:50:44: Stopped music meadows at 7690099
+
+[Info   : Unity Log] 09/17/2022 20:50:44: Resumed music meadows at 7690099
+
+[Info   : Unity Log] 09/17/2022 20:50:47: client got keys 1
+
 [Info   :Auto Map Pins] [AMP] Trying to add pin
 [Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   : Unity Log] 09/17/2022 16:25:47: Resumed music meadows at 0
+[Info   :   QoLPins] Negating pin at '(-42, 40, 50)' because inventory was empty
 
-[Info   : Unity Log] 09/17/2022 16:25:49: Setting selected recipe 0
+[Info   : Unity Log] 09/17/2022 20:50:59: Starting respawn
 
-[Info   : Unity Log] 09/17/2022 16:25:49: UI Group status changed root = True
+[Warning: Unity Log] 09/17/2022 20:50:59: Local player destroyed
 
-[Info   : Unity Log] 09/17/2022 16:25:49: UI Group status changed Player = True
+[Info   : Unity Log] 09/17/2022 20:50:59: tip:$loadscreen_tip25
 
-[Info   : Unity Log] 09/17/2022 16:25:53: Setting selected recipe 0
+[Info   : Unity Log] 09/17/2022 20:51:07: Found bed at custom spawn point
 
-[Info   : Unity Log] 09/17/2022 16:25:53: UI Group status changed root = True
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Info   : Unity Log] 09/17/2022 16:25:53: UI Group status changed Player = True
-
-[Info   : Unity Log] 09/17/2022 16:26:02: Spawned Fish2 x 2
-
-[Info   : Unity Log] 09/17/2022 16:26:02: Spawned Seagal x 2
-
-[Info   : Unity Log] 09/17/2022 16:26:03: Placed locations in zone -4,3  duration 11.1776 ms
-
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Deer x 2
-
-[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Boar x 1
-
-[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Boar x 2
-
-[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Seagal x 2
-
-[Info   : Unity Log] 09/17/2022 16:26:14: Spawned Fish3 x 1
-
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   :Auto Map Pins] [AMP] Trying to add pin
-[Info   : Unity Log] 09/17/2022 16:26:22: Setting selected recipe 0
-
-[Info   : Unity Log] 09/17/2022 16:26:22: UI Group status changed root = True
-
-[Info   : Unity Log] 09/17/2022 16:26:22: UI Group status changed Player = True
-
-[Info   : Unity Log] 09/17/2022 16:26:24: Game - OnApplicationQuit
+[Info   : Unity Log] 09/17/2022 20:51:08: Game - OnApplicationQuit
 
 [Info   : Unity Log] The config file of AlweStats was saved successfully !
 [Info   : Unity Log] Updating the worlds file...
-[Info   : Unity Log] 09/17/2022 16:26:24: Shuting down
+[Info   : Unity Log] 09/17/2022 20:51:08: Shuting down
 
-[Info   : Unity Log] 09/17/2022 16:26:24: Uncompressed size 8388617
+[Info   : Unity Log] 09/17/2022 20:51:08: Uncompressed size 8388819
 
-[Info   : Unity Log] 09/17/2022 16:26:24: Compressed size 8345
+[Info   : Unity Log] 09/17/2022 20:51:09: Compressed size 8650
 
-[Info   : Unity Log] 09/17/2022 16:26:24: Considering autobackup. World time: 47.06, short time: 7200, long time: 43200, backup count: 4
+[Info   : Unity Log] 09/17/2022 20:51:09: Considering autobackup. World time: 221.8, short time: 7200, long time: 43200, backup count: 4
 
-[Info   : Unity Log] 09/17/2022 16:26:24: Skipping backup. World session not long enough.
+[Info   : Unity Log] 09/17/2022 20:51:09: Skipping backup. World session not long enough.
 
-[Info   : Unity Log] 09/17/2022 16:26:24: ZNet Shutdown
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log]  Loading key itemsFloatInWater
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Warning: Unity Log]  [Int] Could not read fermenterItemsProduced, using default value of 4
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key fishing
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log]  Loading key ride
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 09/17/2022 20:51:10: Successfully transpiled Pickable.RPC_Pick to patch item yields
 
-[Info   : Unity Log] 09/17/2022 16:26:24: clone 37
+[Info   : Unity Log] 09/17/2022 20:51:10: ZNet Shutdown
 
-[Info   : Unity Log] 09/17/2022 16:26:25: Sending disconnect msg
+[Info   : Unity Log] 09/17/2022 20:51:10: Sending disconnect msg
 
+[Info   : Unity Log] 09/17/2022 20:51:10: Sent to 90163652831594503
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Released session ticket
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Disposing socket
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Closing socket 90163652831594503
+
+[Info   : Unity Log] 09/17/2022 20:51:10:   send queue size:0
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/17/2022 20:51:10: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Disposing socket
+
+[Info   : Unity Log] 09/17/2022 20:51:10: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/17/2022 20:51:10: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Info   : Unity Log] Unpatching now
-[Info   : Unity Log] 09/17/2022 16:26:29: Steam manager on destroy
+[Info   : Unity Log] 09/17/2022 20:51:15: ZNet OnDestroy
 
-[Warning: Unity Log] 09/17/2022 16:26:29: Local player destroyed
-
-[Info   : Unity Log] 09/17/2022 16:26:29: ZNet OnDestroy
-
-[Info   : Unity Log] 09/17/2022 16:26:29: Net scene destroyed
+[Info   : Unity Log] 09/17/2022 20:51:15: Net scene destroyed
 
