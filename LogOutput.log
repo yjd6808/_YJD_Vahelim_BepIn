@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 29 plugins to load
+[Info   :   BepInEx] 28 plugins to load
 [Info   :   BepInEx] Loading [Minimal Status Effects 1.0.3]
 [Info   :   BepInEx] Loading [AlweStats 4.4.1]
 [Info   : AlweStats] AlweStats loaded successfully !
@@ -275,7 +275,7 @@
 [Info   : Unity Log] Loading config section Chat
 [Info   : Unity Log]  Section not enabled
 [Info   :Valheim Plus] Configuration file loaded succesfully.
-[Info   : Unity Log] 09/18/2022 06:44:23: Successfully transpiled Pickable.RPC_Pick to patch item yields
+[Info   : Unity Log] 09/18/2022 07:48:13: Successfully transpiled Pickable.RPC_Pick to patch item yields
 
 [Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
 [Info   :   BepInEx] Loading [Crafting with Containers - TempFix by LukaWolf 1.0.15]
@@ -310,15 +310,6 @@
 [Info   :   BepInEx] Loading [OdinArchitect 0.1.3]
 [Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
 [Info   :   BepInEx] Loading [AnyPortal 2.0.0]
-[Info   :   BepInEx] Loading [MagicOverhaul 1.5.5]
-[Info   : Unity Log] 09/18/2022 06:44:30: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 09/18/2022 06:44:30: Loaded localization CSV:localization_extra language:English
-
-[Info   : Unity Log] 09/18/2022 06:44:30: Loaded localization CSV:localization language:Korean
-
-[Info   : Unity Log] 09/18/2022 06:44:30: Loaded localization CSV:localization_extra language:Korean
-
 [Info   :   BepInEx] Loading [UsefulPaths 1.0.5.0]
 [Info   :   BepInEx] Loading [Valheim Plus Build Expansion 1.0.8]
 [Info   :   BepInEx] Loading [Quick Stack 0.6.5]
@@ -326,6 +317,14 @@
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
+[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization language:Korean
+
+[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization_extra language:Korean
+
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.15]
 [Info   :   BepInEx] Loading [QoLPins 5.4.1604]
 [Info   :   QoLPins] Updating ColorLib
@@ -334,39 +333,39 @@
 [Info   :   BepInEx] Loading [BuildHelper 0.2]
 [Info   :   BepInEx] Loading [TorchesEternal 0.2]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 09/18/2022 06:44:47: Starting to load scene:start
+[Info   : Unity Log] 09/18/2022 07:48:23: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/18/2022 06:44:56: Using environment steamid 892970
+[Info   : Unity Log] 09/18/2022 07:48:27: Using environment steamid 892970
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Using steam APPID:892970
+[Info   : Unity Log] 09/18/2022 07:48:27: Using steam APPID:892970
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/18/2022 07:48:27: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/18/2022 07:48:27: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Using default prefs
+[Info   : Unity Log] 09/18/2022 07:48:27: Using default prefs
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Valheim version:0.210.6@0.9.9.8
+[Info   : Unity Log] 09/18/2022 07:48:27: Valheim version:0.210.6@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/18/2022 06:44:56: Render threading mode:MultiThreaded
+[Info   : Unity Log] 09/18/2022 07:48:27: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 09/18/2022 06:44:56: Missing audio clip in music respawn
+[Warning: Unity Log] 09/18/2022 07:48:27: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/18/2022 06:44:56: Checking for installed DLCs
+[Info   : Unity Log] 09/18/2022 07:48:27: Checking for installed DLCs
 
-[Info   : Unity Log] 09/18/2022 06:44:56: DLC:beta installed:False
+[Info   : Unity Log] 09/18/2022 07:48:27: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 09/18/2022 06:44:57: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/18/2022 06:44:57: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 09/18/2022 06:44:57: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/18/2022 06:44:57: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
@@ -408,15 +407,33 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   : Unity Log] 09/18/2022 06:44:57: Vis equip model set to 1
+[Info   : Unity Log] 09/18/2022 07:48:28: Vis equip model set to 1
 
-[Info   : Unity Log] 09/18/2022 06:44:57: Vis equip model set to 1
+[Info   : Unity Log] 09/18/2022 07:48:28: Vis equip model set to 1
 
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
 (wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Info   : Unity Log] 09/18/2022 06:44:59: UI Group status changed Menu = True
+[Info   : Unity Log] 09/18/2022 07:48:29: UI Group status changed Menu = True
 
-[Info   : Unity Log] 09/18/2022 06:45:02: UI Group status changed Menu = True
+[Info   : Unity Log] 09/18/2022 07:48:31: UI Group status changed Menu = True
 
+[Info   : Unity Log] 09/18/2022 07:48:55: FOund selected Start game
+
+[Info   : Unity Log] 09/18/2022 07:48:55: show character selection
+
+[Info   : Unity Log] 09/18/2022 07:48:55: Vis equip model set to 1
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Info   : Unity Log] 09/18/2022 07:50:46: Steam manager on destroy
+
+[Info   : Unity Log] Unpatching now
