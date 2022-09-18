@@ -1,10 +1,15 @@
+Auga : 플레이어 UI, 새로운 플레이어 스킨, 새로운 제작소 UI, 확장된 캐릭터 선택
+  호환안되는 모드들 있으므로 체크해야함: https://valheim.thunderstore.io/package/RandyKnapp/Auga/
+
 Advanced_Map_Icons : 미니맵 아이콘을 수정할 수 있게 해주는 모드 - 사이즈 수정 등
 AlweStats : 간편하게 능력치,fps,핑,시간,배,인벤토리 등 정보를 표시해줌
 AutoMapPins_with_Configuration : 주변 광물들 미니맵에 표시해줌
 BowZoom : 화살 조준시 조금 확대 됨
 Build_Near_Locations : 시작지점을 비롯한 건축 금지지역에 건축가능하도록 해줌
 Build_In_Dungeons : 던전안에서 건물 지을 수 있도록 만들어줌
-BuildExpansion : 망치로 지을 수 있는 인벤토리 스크롤 기능을 추가해줌. 개발자 전용 모드
+[삭제]BuildExpansion : 망치로 지을 수 있는 인벤토리 스크롤 기능을 추가해줌. 개발자 전용 모드
+   사유: Auga와 호환안됨 - Auga에 내장되어 있어서 필요없음
+
 BuildHelper : 건축 관련 개선모드, 워크벤치 영향 범위 수정, 건축시 스태미너 수정 등등
 CraftingWithContainersTempFix : 제작/건축시 근처 상자의 아이템을 바로 사용할수 있게 해줌
 EpicLoot : 레어/에픽/레전드리등 매직 아이템 추가
@@ -13,6 +18,7 @@ ExtendedItemDataFramework
 FasterTeleportation : 포탈 로딩시간 감소
 FloatingItems : 물 위에 아이템 둥둥 뜨게만듬
 ImprovedBuildHud : 건축 HUD 개선모드, 얼마나 지을 수 있는지, 아이템이 얼마나 남았는지 알려줌
+MapTeleporter : 지도위에서 왼쪽 CTRL + 마우스 중간(핑)을 같이 입력해서 클릭한 위치로 텔레포트 가능하도록 한다.
 MinimalStatusEffects : 버프/디버프 목록을 지도 아래에 작게 보여주는 모드
 MissingPieces : 
 No_Crafting_Station_Restrictions : 작업대 설치를 안하고 건축/파괴/수리가 가능함
