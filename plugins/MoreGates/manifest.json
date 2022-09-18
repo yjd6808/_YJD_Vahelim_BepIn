@@ -1,0 +1,10 @@
+{
+    "name": "MoreGates",
+    "version_number": "1.0.11",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1087/",
+    "description": "This is a basic mod that adds more gates and gate like objects!",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1600",
+        "ValheimModding-Jotunn-2.3.7"
+    ]
+}

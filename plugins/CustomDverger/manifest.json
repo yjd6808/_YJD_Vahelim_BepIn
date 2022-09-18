@@ -1,0 +1,10 @@
+﻿{
+  "name": "CustomDverger",
+  "description": "Adds craftable dverger circlets in multiple colors with brighter light.",
+  "version_number": "0.0.2",
+  "website_url": "https://github.com/plumga/CustomDverger",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1501",
+    "ValheimModding-Jotunn-2.3.1"
+  ]
+}

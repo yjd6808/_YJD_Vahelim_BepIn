@@ -1,0 +1,9 @@
+{
+    "name": "CraftFromContainers",
+    "version_number": "2.2.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/40",
+    "description": "Allows crafting and building by using resources from nearby storage. Re-Upload from NexusMods by aedenthorn.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1600"
+    ]
+}

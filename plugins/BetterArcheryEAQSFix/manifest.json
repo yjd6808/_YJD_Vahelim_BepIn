@@ -1,0 +1,9 @@
+{
+    "name": "BetterArcheryEAQSFix",
+    "version_number": "0.0.1",
+    "website_url": "",
+    "description": "Valheim mod attempting to fix item loss bug when using Better Archery alongside Equipment and Quick Slots. All credit goes to jsza. Reupload from NexusMods",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1501"
+    ]
+}
