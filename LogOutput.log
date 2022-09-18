@@ -275,7 +275,7 @@
 [Info   : Unity Log] Loading config section Chat
 [Info   : Unity Log]  Section not enabled
 [Info   :Valheim Plus] Configuration file loaded succesfully.
-[Info   : Unity Log] 09/18/2022 07:48:13: Successfully transpiled Pickable.RPC_Pick to patch item yields
+[Info   : Unity Log] 09/18/2022 11:37:10: Successfully transpiled Pickable.RPC_Pick to patch item yields
 
 [Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
 [Info   :   BepInEx] Loading [Crafting with Containers - TempFix by LukaWolf 1.0.15]
@@ -317,13 +317,13 @@
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
-[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/18/2022 11:37:16: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/18/2022 11:37:16: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/18/2022 11:37:16: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/18/2022 07:48:19: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/18/2022 11:37:16: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.15]
 [Info   :   BepInEx] Loading [QoLPins 5.4.1604]
@@ -333,39 +333,39 @@
 [Info   :   BepInEx] Loading [BuildHelper 0.2]
 [Info   :   BepInEx] Loading [TorchesEternal 0.2]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 09/18/2022 07:48:23: Starting to load scene:start
+[Info   : Unity Log] 09/18/2022 11:37:20: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/18/2022 07:48:27: Using environment steamid 892970
+[Info   : Unity Log] 09/18/2022 11:37:28: Using environment steamid 892970
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Using steam APPID:892970
+[Info   : Unity Log] 09/18/2022 11:37:28: Using steam APPID:892970
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/18/2022 11:37:28: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Steam initialized, persona:b4dnsupg
+[Info   : Unity Log] 09/18/2022 11:37:28: Steam initialized, persona:b4dnsupg
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Using default prefs
+[Info   : Unity Log] 09/18/2022 11:37:28: Using default prefs
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Valheim version:0.210.6@0.9.9.8
+[Info   : Unity Log] 09/18/2022 11:37:28: Valheim version:0.210.6@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 09/18/2022 07:48:27: Render threading mode:MultiThreaded
+[Info   : Unity Log] 09/18/2022 11:37:28: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 09/18/2022 07:48:27: Missing audio clip in music respawn
+[Warning: Unity Log] 09/18/2022 11:37:28: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/18/2022 07:48:27: Checking for installed DLCs
+[Info   : Unity Log] 09/18/2022 11:37:28: Checking for installed DLCs
 
-[Info   : Unity Log] 09/18/2022 07:48:27: DLC:beta installed:False
+[Info   : Unity Log] 09/18/2022 11:37:28: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 09/18/2022 11:37:29: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 09/18/2022 11:37:29: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization language:Korean
+[Info   : Unity Log] 09/18/2022 11:37:29: Loaded localization CSV:localization language:Korean
 
-[Info   : Unity Log] 09/18/2022 07:48:28: Loaded localization CSV:localization_extra language:Korean
+[Info   : Unity Log] 09/18/2022 11:37:29: Loaded localization CSV:localization_extra language:Korean
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Korean'
 [Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
@@ -407,33 +407,295 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   : Unity Log] 09/18/2022 07:48:28: Vis equip model set to 1
+[Info   : Unity Log] 09/18/2022 11:37:30: Vis equip model set to 1
 
-[Info   : Unity Log] 09/18/2022 07:48:28: Vis equip model set to 1
-
-[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
-Stack trace:
-(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
-
-[Info   : Unity Log] 09/18/2022 07:48:29: UI Group status changed Menu = True
-
-[Info   : Unity Log] 09/18/2022 07:48:31: UI Group status changed Menu = True
-
-[Info   : Unity Log] 09/18/2022 07:48:55: FOund selected Start game
-
-[Info   : Unity Log] 09/18/2022 07:48:55: show character selection
-
-[Info   : Unity Log] 09/18/2022 07:48:55: Vis equip model set to 1
+[Info   : Unity Log] 09/18/2022 11:37:30: Vis equip model set to 1
 
 [Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
 Stack trace:
 (wrapper dynamic-method) Player.DMD<Player::Start>(Player)
 
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
-[Info   : Unity Log] 09/18/2022 07:50:46: Steam manager on destroy
+[Info   : Unity Log] 09/18/2022 11:37:30: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/18/2022 11:37:32: UI Group status changed Menu = True
+
+[Info   : Unity Log] 09/18/2022 11:37:36: FOund selected Start game
+
+[Info   : Unity Log] 09/18/2022 11:37:36: show character selection
+
+[Info   : Unity Log] 09/18/2022 11:37:36: Vis equip model set to 1
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   : Unity Log] 09/18/2022 11:37:40: OnCharacterStart
+
+[Info   : Unity Log] 09/18/2022 11:37:43: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] 09/18/2022 11:37:43: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 09/18/2022 11:37:43: Loading player profile 안젤리나죨라
+
+[Info   : Unity Log] 09/18/2022 11:37:43: isModded: True
+
+[Info   : Unity Log] 09/18/2022 11:37:43: Zonesystem Awake 736
+
+[Info   : Unity Log] 09/18/2022 11:37:43: DungeonDB Awake 736
+
+[Info   : Unity Log] 09/18/2022 11:37:43: Steam initialized, persona:b4dnsupg
+
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 98 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   :Jotunn.Managers.PieceManager] Adding 93 custom pieces to the PieceTables
+[Info   : Unity Log] 09/18/2022 11:37:46: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/18/2022 11:37:46: Checking for installed DLCs
+
+[Info   : Unity Log] 09/18/2022 11:37:46: DLC:beta installed:False
+
+[Info   : Unity Log] m_pinSizeSmall: 24
+[Info   : Unity Log] m_pinSizeLarge: 28
+[Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 09/18/2022 11:37:50: Zonesystem Start 736
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 09/18/2022 11:37:51: DungeonDB Start 736
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Load world: angelina (angelina)
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Loading 71505 zdos , my id 1798607240 data version:28
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Loaded 8934 dead zdos
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 09/18/2022 11:37:51: Loaded 7483 locations
+
+[Info   : Unity Log] 09/18/2022 11:38:01: Unpacking compressed mapdata 8742
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/18/2022 11:38:02: Starting respawn
+
+[Info   : Unity Log] 09/18/2022 11:38:02: tip:$loadscreen_tip19
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] Loaded 7 locations pins
+[Info   : Unity Log] 09/18/2022 11:38:05: Force generaeting hmap (384.0, 0.0, 448.0)
+
+[Info   : Unity Log] 09/18/2022 11:38:05: Force generaeting hmap (320.0, 0.0, 640.0)
+
+[Info   : Unity Log] 09/18/2022 11:38:10: Spawned after 8.019994
+
+[Info   : Unity Log] 09/18/2022 11:38:10: Vis equip model set to 1
+
+[Info   : Unity Log] 09/18/2022 11:38:10: -------------------- SENDING VPLUSMAPSYNC DATA
+
+[Info   : Unity Log] 09/18/2022 11:38:10: Sent my map data to the server (151 map ranges, 1 chunks)
+
+[Error  : Unity Log] MissingMethodException: ZInput/ButtonDef ZInput.AddButton(string,UnityEngine.KeyCode,single,single)
+Stack trace:
+(wrapper dynamic-method) Player.DMD<Player::Start>(Player)
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/18/2022 11:38:10: Minimap: Adding unique location (-0.7, 33.6, -2.9)
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/18/2022 11:38:12: Resumed music blackforest at 0
+
+[Info   : Unity Log] 09/18/2022 11:38:38: Placed wood_roof_icorner
+
+[Info   : Unity Log] 09/18/2022 11:39:17: Placed woodwall
+
+[Info   : Unity Log] 09/18/2022 11:39:23: Placed woodwall
+
+[Info   : Unity Log] 09/18/2022 11:39:26: Placed woodwall
+
+[Info   : Unity Log] 09/18/2022 11:39:29: Placed wood_floor
+
+[Info   : Unity Log] 09/18/2022 11:39:32: Placed wood_floor
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/18/2022 11:39:46: Loading dungeon
+
+[Info   : Unity Log] 09/18/2022 11:39:46: Dungeon loaded 27
+
+[Info   : Unity Log] 09/18/2022 11:39:46: Dungeon load time 31.392 ms
+
+[Info   :Auto Map Pins] [AMP] Trying to add pin
+[Info   : Unity Log] 09/18/2022 11:39:52: Force generaeting hmap (384.0, 0.0, 448.0)
+
+[Info   : Unity Log] 09/18/2022 11:39:53: Loading dungeon
+
+[Info   : Unity Log] 09/18/2022 11:39:53: Dungeon loaded 27
+
+[Info   : Unity Log] 09/18/2022 11:39:53: Dungeon load time 21.9532 ms
+
+[Info   : Unity Log] 09/18/2022 11:39:54: Force generaeting hmap (384.0, 0.0, 448.0)
+
+[Info   : Unity Log] 09/18/2022 11:40:01: Disabling jump_trigger  character_trigger
+
+[Info   : Unity Log] 09/18/2022 11:40:01: Disabling jump_trigger (1)  character_trigger
+
+[Info   : Unity Log] 09/18/2022 11:40:01: Disabling jump_trigger (2)  character_trigger
+
+[Info   : Unity Log] 09/18/2022 11:40:09: Loading dungeon
+
+[Info   : Unity Log] 09/18/2022 11:40:09: Dungeon loaded 27
+
+[Info   : Unity Log] 09/18/2022 11:40:09: Dungeon load time 20.9441 ms
+
+[Info   : Unity Log] 09/18/2022 11:40:15: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:18: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:21: Stopped music blackforest at 5696543
+
+[Info   : Unity Log] 09/18/2022 11:40:21: Resumed music blackforest at 5696543
+
+[Info   : Unity Log] 09/18/2022 11:40:24: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:26: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:28: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:29: Stopped music blackforest at 6060632
+
+[Info   : Unity Log] 09/18/2022 11:40:29: Resumed music blackforest at 6060632
+
+[Info   : Unity Log] 09/18/2022 11:40:33: Stopped music blackforest at 6230916
+
+[Info   : Unity Log] 09/18/2022 11:40:33: Resumed music meadows at 0
+
+[Info   : Unity Log] 09/18/2022 11:40:38: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:40: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:48: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:49: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:40:55: Placed wood_stair
+
+[Info   : Unity Log] 09/18/2022 11:41:06: Stopped music meadows at 1423430
+
+[Info   : Unity Log] 09/18/2022 11:41:06: Resumed music blackforest at 6230916
+
+[Info   : Unity Log] 09/18/2022 11:41:06: Force generaeting hmap (384.0, 0.0, 448.0)
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Game - OnApplicationQuit
+
+[Info   : Unity Log] The config file of AlweStats was saved successfully !
+[Info   : Unity Log] Updating the worlds file...
+[Info   : Unity Log] 09/18/2022 11:41:07: Shuting down
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Uncompressed size 8388858
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Compressed size 8840
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam Cloud Save: 22077 bytes. /characters/안젤리나죨라.fch.new
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam writing file chunks 1 / 1, (22077 bytes)
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam Cloud Move: 21979 bytes. /characters/안젤리나죨라.fch -> /characters/안젤리나죨라.fch.old
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam writing file chunks 1 / 1, (21979 bytes)
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam Cloud Move: 22077 bytes. /characters/안젤리나죨라.fch.new -> /characters/안젤리나죨라.fch
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Steam writing file chunks 1 / 1, (22077 bytes)
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Considering autobackup. World time: 184.68, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/18/2022 11:41:07: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/18/2022 11:41:07: ZNet Shutdown
+
+[Info   : Unity Log] 09/18/2022 11:41:07: clone 73
+
+[Info   : Unity Log] 09/18/2022 11:41:08: Sending disconnect msg
 
 [Info   : Unity Log] Unpatching now
+[Warning: Unity Log] 09/18/2022 11:41:12: Local player destroyed
+
+[Info   : Unity Log] 09/18/2022 11:41:12: Steam manager on destroy
+
+[Info   : Unity Log] 09/18/2022 11:41:12: ZNet OnDestroy
+
+[Info   : Unity Log] 09/18/2022 11:41:12: Net scene destroyed
+
