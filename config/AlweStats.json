@@ -24,6 +24,21 @@
     "timePlayed": 2508.2599895335734,
     "dayLength": 1800,
     "portalsHubs": {},
-    "removedPins": []
+    "removedPins": [
+      {
+        "x": 401.7,
+        "y": 38.1,
+        "z": -473.0,
+        "normalized": {
+          "x": 0.646104336,
+          "y": 0.06128099,
+          "z": -0.760785,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 621.726257,
+        "sqrMagnitude": 386543.5
+      }
+    ]
   }
 ]

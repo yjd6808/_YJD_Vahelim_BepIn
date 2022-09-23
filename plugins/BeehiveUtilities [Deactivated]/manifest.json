@@ -1,0 +1,9 @@
+{
+    "name": "BeehiveUtilities",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/smallo92/BeehiveUtilities",
+    "description": "A few customisation options for beehives",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

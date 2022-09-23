@@ -6,46 +6,59 @@ Auga [Deactivated]: 플레이어 UI, 새로운 플레이어 스킨, 새로운 �
 Advanced_Map_Icons : 미니맵 아이콘을 수정할 수 있게 해주는 모드 - 사이즈 수정 등
 AlweStats: 간편하게 능력치,fps,핑,시간,배,인벤토리 등 정보를 표시해줌
 AutoMapPins_with_Configuration : 주변 광물들 미니맵에 표시해줌
+BeastsOfBurden: 길들인 늑대, 돼지를 수래에 붙일 수 있움
+BeehiveUtilities [Deactivated] : 벌집 관련 유틸리티
 BetterArchery: 활 물리 개선. 
 BetterArcheryEAQSFix
 BowZoom : 화살 조준시 조금 확대 됨
+Build_Camera : 건물 지을때 B를 눌러서 자유 카메라 시점 가능하도록 해줌
 Build_Near_Locations : 시작지점을 비롯한 건축 금지지역에 건축가능하도록 해줌
 Build_In_Dungeons : 던전안에서 건물 지을 수 있도록 만들어줌
-BuildExpansion : 망치로 지을 수 있는 인벤토리 스크롤 기능을 추가해줌. 개발자 전용 모드
+BuildExpansion [Deactivated] : 망치로 지을 수 있는 인벤토리 스크롤 기능을 추가해줌. 개발자 전용 모드 
+                               :: BuildExpansion은 건축 인벤토리 Column수가 모드 적용전 건축 인벤토리 Column수가 달라서
+                                  몇가지 지을 수 없는 건물들이 생김 그래서 비활성화 시켰다.
 BuildHelper : 건축 관련 개선모드, 워크벤치 영향 범위 수정, 건축시 스태미너 수정 등등
 ColorfulLights : 토치 색상 원하는 색상으로 변경할 수 있도록 만들어줌
-CraftFromContainers 제작/건축시 근처 상자의 아이템을 바로 사용할수 있게 해줌
-CraftingWithContainersTempFix
+CraftFromContainers [Deactivated] 제작/건축시 근처 상자의 아이템을 바로 사용할수 있게 해줌 :: EpicLoot와 호환문제가 있음
+CraftingWithContainersTempFix [Deactivated] :: EpicLoot와 호환문제가 있음
 CustomDverger : 횃불 대신 앞 밝혀주는 모드
 EpicLoot : 레어/에픽/레전드리등 매직 아이템 추가
 EquipmentAndQuickSlots : 장비창 퀵슬롯 추가 기능
 ExtendedItemDataFramework
 FasterTeleportation : 포탈 로딩시간 감소
 FloatingItems : 물 위에 아이템 둥둥 뜨게만듬
-ImprovedBuildHud : 건축 HUD 개선모드, 얼마나 지을 수 있는지, 아이템이 얼마나 남았는지 알려줌
+Flying_Mounts : Magic Overhaul의 동물 타고 날아다닐 수 있는 기능만 적용
+Freefly : F10을 눌러서 시점 자유변경 가능하도록 도와주는 플러그인 단축키 정보는 리드미 참고
+ImprovedBuildHud [Deactivated] : 건축 HUD 개선모드, 얼마나 지을 수 있는지, 아이템이 얼마나 남았는지 알려줌 :: 동작안함..
+InventorySorting [Deactivated] : 인벤토리에 정렬 버튼 추가 :: valheim-plus랑 호환 안됨. (인벤토리 크기 바꿔서 그런듯?)
 MapTeleporter : 지도위에서 왼쪽 CTRL + 마우스 중간(핑)을 같이 입력해서 클릭한 위치로 텔레포트 가능하도록 한다.
 MinimalStatusEffects : 버프/디버프 목록을 지도 아래에 작게 보여주는 모드
-MissingPieces : 
+MissingPieces
+MonsterLabZ : 몬스터 종류 추가, 젠률 조절 가능
 MoreGates : 건축 오브젝트 추가(다리, 문)
 MultiCraft : 제작 한번에 여러번 할 수 있도록 해줌
-No_Crafting_Station_Restrictions : 작업대 설치를 안하고 건축/파괴/수리가 가능함
+No_Crafting_Station_Restrictions [Deactivated] : 작업대 설치를 안하고 건축/파괴/수리가 가능함 :: EpicLoot 인챈터, 강화기 같은 거지을 때 오류남
 OdinArchitect : 건축물 추가 기능
 Official_BepInEx_ConfigurationManager : BepInEx/config의 설정파일들을 수정할 수 있게도와주는 플러그인 게임상에서 F1을 누르면 됨
 PinFilters : 핀 필터링 기능 - 온 오프로 특정 핀만 보이게하는게 가능
 PlantEverything : 모든 작물 재배 가능하도록 해주는 모드
 QuickStack : 근처의 상자로 아이템을 바로 이동시켜줌. `키를 누르면 됨.
+SimpleAutoSortReuploadFromNexus : 근처 상자의 아이템을 자동 정렬해줌. 근처 상자에 같은 타입의 아이템이 있을 경우 그 상자로 아이템 전송
 SimpleRecycling_Fixed : 장비아이템 분해 가능하도록 해줌
 SnapPointsMadeEasy : 건출할 때 스냅 포인트 위치를 개선해줌
+Spawn_That
 TakeMeHome : 스폰지점으로 순간이동 가능하게 해줌 P를 눌러서 집으로 순간이동, L을 눌러서 이전에 있던 장소로 순간이동
 QoLPins : 죽은 후 자동생성된 핀 제거 가능하게 해주는 모드, 핀 애니메이션 기능 등.
 TorchesEternal : 횃불 연료 무제한
 TorchLightMod : 불/토치 색상 변경할 수 있는 모드
-
 TrashItems : 인벤토리에서 아이템 삭제 가능하게 해주는 모드 - 아이템 선택 후 Delete키
+TreeRespawn_by_Aedenthorn : 베어진 나무 자동 재생성 해주는 모드
+UnfrightenTamedAnimals : 길들여진 동물들 불을 안무서워하게 만들어줌
 UnrestrictedPortals : 포탈 탈때 제한 없애주는 모드
 Useful_Paths : 지형별 이동속도 조절 기능
 ValheimModding : 기본 모드들 디펜던시
 ValheimGammaMod : 밤되면 감마 조절해서 밝게해줌
+AutoFuel : 용광로(furnace/smelter), 숯가마(charcoal kiln) 근처 바닥이나 컨테이너에 재료 넣어두면 자동으로 자동으로 가져가서 만들어줌
 AnyPortal : 포탈 1:多 연결 가능
 HoldAttack : 꾹누르면 공격 계속해줌
 

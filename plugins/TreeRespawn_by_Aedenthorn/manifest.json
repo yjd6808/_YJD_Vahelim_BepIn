@@ -1,0 +1,9 @@
+{
+    "name": "TreeRespawn_by_Aedenthorn",
+    "version_number": "0.8.5",
+    "website_url": "https://www.nexusmods.com/valheim/mods/37",
+    "description": "Causes a new sapling to grow when a tree stump is removed. If you enjoy the mod please go download a copy from Nexus, to support the creator.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1901"
+	]
+}

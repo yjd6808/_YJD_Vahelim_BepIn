@@ -1,0 +1,9 @@
+{
+  "name": "Freefly",
+  "description": "Freecam for content creators",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.600"
+  ]
+}
